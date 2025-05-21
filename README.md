@@ -141,3 +141,25 @@ Open a terminal in Visual Studio Code, navigate to the folder where the `environ
 ### 5. Deactivate the environment when you're done
 
 `conda deactivate`
+
+## Past Courses and Related Links
+
+Parts of these materials were created by Evan Muzzall, 2018-2021, Brooks Jessup, 2021, Tom van Nuenen, 2022, Prashant Sharma 2023-2024.
+
+- https://github.com/dlab-berkeley/DIGHUM101-2024
+- https://github.com/dlab-berkeley/DIGHUM101-2023
+- https://github.com/dlab-berkeley/DIGHUM101-2022
+- https://github.com/dlab-berkeley/DIGHUM101-2021
+- https://github.com/dlab-berkeley/DIGHUM101-2020
+- https://github.com/dlab-berkeley/DIGHUM101-2019
+- https://github.com/dlab-berkeley/DIGHUM101-2018
+
+Newly developed materials (Summer 2025, Merve Tekgürler) make use of the following repositories and resources:
+
+- https://github.com/dlab-berkeley/Python-Fundamentals
+- https://github.com/dlab-berkeley/Python-Data-Wrangling/
+- https://github.com/dlab-berkeley/Python-Web-APIs
+- https://github.com/cs124/pa2-naive-bayes/blob/main/pa2.ipynb
+- https://github.com/cs124/pa2-naive-bayes/blob/main/numpy_tutorial.ipynb
+- https://web.stanford.edu/class/cs124/lec/Lab1_UnixText_2025_upload.pdf
+- https://github.com/cs124/labs/blob/main/Lab3_InformationRetrieval.md 
