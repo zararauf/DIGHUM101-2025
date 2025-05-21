@@ -1,6 +1,22 @@
-# DIGHUM101-2025
+# DIGHUM101-2025: Python Programming for Digital Humanities
 
-Welcome to Python Programming for Digital Humanities, UC Berkeley Summer 2025, taught by Merve Tekgürler.
+Course Catalog: [Python Programming for Digital Humanities 2025 Summer Session A](https://classes.berkeley.edu/content/2025-summer-dighum-101-001-lec-001)
+
+[UC Berkeley D-Lab](https://dlab.berkeley.edu/)
+
+Instructor: [Merve Tekgürler](http://mervetekgurler.com/)
+
+**Dates:** May 27 – July 3, 2025
+Mondays, Tuesdays, Wednesdays, and Thursdays
+**Time:** 1:00 – 3:00 PM
+**Instruction Mode:** Online
+**Office Hours:** Mondays and Wednesdays after class or by appointment on Zoom
+**Prerequisites:** None!
+**Requirements:** Computer, Zoom account, and Internet connection.
+
+## Course Description
+
+The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will learn foundational knowledge of Python, the leading programming language in Digital Humanities and data science. By the end of this course, students will be able to program Python in Jupyter Notebooks, exploring and visualizing data for purposes of computational text analysis, social network analysis, and machine learning. 
 
 ## Software Installations and Set Up
 
