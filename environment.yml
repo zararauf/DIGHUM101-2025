@@ -1,0 +1,27 @@
+name: dighum101
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - nltk
+  - gensim
+  - beautifulsoup4
+  - lxml
+  - requests
+  - python-dotenv
+  - seaborn
+  - pip
+  - pip:
+      - textblob
+      - wordcloud
+      - tqdm
+      - folium
+      - python-docx
+      - ipywidgets
