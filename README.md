@@ -2,7 +2,7 @@
 
 Course Catalog: [Python Programming for Digital Humanities 2025 Summer Session A](https://classes.berkeley.edu/content/2025-summer-dighum-101-001-lec-001)
 
-[UC Berkeley D-Lab](https://dlab.berkeley.edu/)
+Offered Through: [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
 Instructor: [Merve Tekgürler](http://mervetekgurler.com/)
 
@@ -63,15 +63,17 @@ This course introduces students to Python and in 2025 any introduction to coding
 
 ## Grading
 
-Attendance and Participation: 10%
-Individual Project
-    Short Paper: 20%
-    Presentation: 10%
-Group Project
-    Topic Statement: 10%
-    Short Paper: 15%
-    Repository: 25%
-Video Reflection: 10%
+|                               |       |
+|-------------------------------|-------|
+| **Attendance and Participation** | 10%    |
+| **Individual Project**         |        |
+| └─ Short Paper                 | 20%    |
+| └─ Presentation                | 10%    |
+| **Group Project**              |        |
+| └─ Topic Statement             | 10%    |
+| └─ Short Paper                 | 15%    |
+| └─ Repository                  | 25%    |
+| **Video Reflection**           | 10%    |
 
 Grading is straight scale: A=90-100; B=80-89; C=70-79; D=60-69; F<60
 
