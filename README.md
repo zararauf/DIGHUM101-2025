@@ -16,7 +16,64 @@ Mondays, Tuesdays, Wednesdays, and Thursdays
 
 ## Course Description
 
-The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will learn foundational knowledge of Python, the leading programming language in Digital Humanities and data science. By the end of this course, students will be able to program Python in Jupyter Notebooks, exploring and visualizing data for purposes of computational text analysis, social network analysis, and machine learning. 
+The digital and data revolution has begun to transform the study of the humanities by introducing new archival data sources, tools and methods, and modes of analysis. In this applied course, students will learn foundational knowledge of Python, the leading programming language in Digital Humanities and data science. By the end of this course, students will be able to program Python in Jupyter Notebooks, analyze and visualize data for purposes of computational text analysis and gain a fundemental understanding of machine learning.
+
+## Learning Goals
+
+The goal of this course is to teach you basic principles for conducting professional research in the Digital Humanities. You will learn how to program Python in Jupyter Notebooks to access, explore, visualize, and analyze data in humanities contexts. You are strongly encouraged to concurrently enroll in [DIGHUM 100 – Theory and Methods in the Digital Humanities](https://classes.berkeley.edu/index.php/content/2025-summer-dighum-100-001-lec-001) to complement this experience with a strong theoretical foundation. By the end of this course, you will learn:
+
+- A variety of Pythonic approaches to explore questions in the humanities;
+- How to understand data more holistically, its generative process and lifecycle;
+- Strategies for organizing research projects based on your interests;
+- Methods for data acquisition and visualization, computational text analysis, and machine learning;
+- The importance of developing a critical lens in your field of study.
+
+## Course Materials
+
+Course materials and instructions are on bCourses and [the course Github repository](https://github.com/dlab-berkeley/DIGHUM101-2025). The repository has the following structure:
+
+### Directories
+
+- Week {1-6}/ contains the Jupyter notebooks used in class for each week
+- Data/ contains several example datasets we will work through together during class time and for challenge questions. Think bigger for your project!
+
+### Files
+
+- `environment.yml` contains code for setting up the class conda environment
+- `README.md` contains the text on this page
+- `assignment_descriptions.md` contains detailed descriptions of the course assignments
+
+## Course Policies
+
+### Attendance
+
+This course is synchronous and attendance is required. Asynchronous exceptions will be considered on a case-by-case basis, such as for those living in distant time zones. Attendance will be tracked through Zoom sign-ins.
+
+Alongside attendance, students are expected to be present and participating in the class. Our course is a practicum, which means that we will spend most of our class time solving coding problems and analyzing solutions. Come prepared to join the class discussions. You are encouraged to ask questions if something is not clear or if you would like to see more examples. You are welcome to answer your colleagues' questions. Let's keep a lively conversation!
+
+### Collaboration
+
+Students are encouraged to discuss assignments and collaborate with one another. However, unless otherwise stated, students are expected to submit individual work and disclose any collaboration.
+
+### Generative Artificial Intelligence
+
+Generative AI refers to technology that can create new content such as text, images, or code, based on user input. Since the main learning goal of this class is to become fluent in coding with Python, students are expected to solve the coding exercises and assignments on their own. They can however use AI models to help with their assignments, as long as the answers are their own and they disclose the use of AI. [AI at UC Berkeley](https://technology.berkeley.edu/AI) contains useful information and guides about Berkeley's AI policies.
+
+This course introduces students to Python and in 2025 any introduction to coding course should emphasize AI literacy. On the first day of class, we will go over what generative AI and where it might help the learning goals of our course and where it might hinder your learning process.
+
+## Grading
+
+Attendance and Participation: 10%
+Individual Project
+    Short Paper: 20%
+    Presentation: 10%
+Group Project
+    Topic Statement: 10%
+    Short Paper: 15%
+    Repository: 25%
+Video Reflection: 10%
+
+Grading is straight scale: A=90-100; B=80-89; C=70-79; D=60-69; F<60
 
 ## Software Installations and Set Up
 
@@ -40,8 +97,8 @@ Please follow the steps below to install the required software:
 - Sign in VS Code with your GitHub account
 - [ ] Miniconda
 - Download [Miniconda Installer](https://www.anaconda.com/download/) You have to scroll all the way down to the Miniconda installer
-- Make sure to choose the correct Miniconda for your computer (Windows vs Mac) and your chip architecture (Mac Intel or Mac Apple).
-Refer to [getting started](https://www.anaconda.com/docs/getting-started/miniconda/main) and [installation](https://www.anaconda.com/docs/getting-started/miniconda/install) guides for questions
+- Make sure to choose the correct Miniconda for your computer (Windows vs Mac) and your chip architecture (Mac Intel or Mac Apple) and download the Graphical Installer (not command line)
+- Refer to [getting started](https://www.anaconda.com/docs/getting-started/miniconda/main) and [installation](https://www.anaconda.com/docs/getting-started/miniconda/install) guides for questions
 
 ## Conda Environment
 
@@ -59,7 +116,11 @@ Follow these steps to set up your Python environment for this course.
 
 ### 1. Copy the repository
 
-Clone or download this repository to your computer. Make sure to place it in a folder **whose location you will not change** later on.
+Clone or download this repository to your computer.
+    Click the green "Code" button in the top right of the repository information.
+    Click "Download Zip".
+    Extract this folder to a location on your computer that you will **not change** later on.
+Open this repository in VS Code
 
 ### 2. Create the Conda environment
 
