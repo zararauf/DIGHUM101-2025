@@ -14,6 +14,7 @@ You will choose a topic, either a methodology/approach like topic modeling or a 
 **Deadline: 20 June 2025**
 
 ### Presentation
+
 You will replicate the code in one of the papers you evaluated and walk us through that code.
 **Deadline: 30 June 2025**
 

@@ -8,10 +8,15 @@ Instructor: [Merve Tekgürler](http://mervetekgurler.com/)
 
 **Dates:** May 27 – July 3, 2025
 Mondays, Tuesdays, Wednesdays, and Thursdays
+
 **Time:** 1:00 – 3:00 PM
+
 **Instruction Mode:** Online
+
 **Office Hours:** Mondays and Wednesdays after class or by appointment on Zoom
+
 **Prerequisites:** None!
+
 **Requirements:** Computer, Zoom account, and Internet connection.
 
 ## Course Description
@@ -91,7 +96,7 @@ Please follow the steps below to install the required software:
   - Download [Miniconda Installer](https://www.anaconda.com/download/) You have to scroll all the way down to the Miniconda installer
   - Make sure to choose the correct Miniconda for your computer (Windows vs Mac) and your chip architecture (Mac Intel or Mac Apple) and download the Graphical Installer (not command line)
   - Refer to [getting started](https://www.anaconda.com/docs/getting-started/miniconda/main) and [installation](https://www.anaconda.com/docs/getting-started/miniconda/install) guides for questions
-  
+
 - [ ] Python
   - If you are using Mac, you should already have Python installed on your computer.
   - If you are using Windows, Miniconda should take care of the Python installation. If not, please follow the instructions here to install [Python](https://realpython.com/installing-python/)
