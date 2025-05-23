@@ -87,20 +87,28 @@ Finally, we will be using GitHub, a platform for sharing and collaborating on co
 
 Please follow the steps below to install the required software:
 
-- [ ] Python
-- If you are using a MacBook, you should already have Python installed on your computer.
-- If you are using Windows, please follow the instructions here to install [Python](https://realpython.com/installing-python/)
-- Make sure that you are running Python 3.12
-- [ ] GitHub
-- Use your student email address to create a [GitHub account](https://github.com/)
-- Follow the instructions on [this page](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) to apply for a GitHub Pro account, which is free for students
-- [ ] Virtual Studio Code
-- Download [VS Code](https://code.visualstudio.com/)
-- Sign in VS Code with your GitHub account
 - [ ] Miniconda
-- Download [Miniconda Installer](https://www.anaconda.com/download/) You have to scroll all the way down to the Miniconda installer
-- Make sure to choose the correct Miniconda for your computer (Windows vs Mac) and your chip architecture (Mac Intel or Mac Apple) and download the Graphical Installer (not command line)
-- Refer to [getting started](https://www.anaconda.com/docs/getting-started/miniconda/main) and [installation](https://www.anaconda.com/docs/getting-started/miniconda/install) guides for questions
+  - Download [Miniconda Installer](https://www.anaconda.com/download/) You have to scroll all the way down to the Miniconda installer
+  - Make sure to choose the correct Miniconda for your computer (Windows vs Mac) and your chip architecture (Mac Intel or Mac Apple) and download the Graphical Installer (not command line)
+  - Refer to [getting started](https://www.anaconda.com/docs/getting-started/miniconda/main) and [installation](https://www.anaconda.com/docs/getting-started/miniconda/install) guides for questions
+  
+- [ ] Python
+  - If you are using Mac, you should already have Python installed on your computer.
+  - If you are using Windows, Miniconda should take care of the Python installation. If not, please follow the instructions here to install [Python](https://realpython.com/installing-python/)
+  - Make sure that you are running Python 3.12
+
+- [ ] GitHub
+  - Use your student email address to create a [GitHub account](https://github.com/)
+  - Follow the instructions on [this page](https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student) to apply for a GitHub Pro account, which is free for students
+
+- [ ] Virtual Studio Code
+  - Download [VS Code](https://code.visualstudio.com/)
+  - Sign into VS Code with your GitHub account
+
+- [ ] Git Bash (Windows users only – optional)
+  - If you'd like a Unix-style terminal experience, install [Git Bash](https://gitforwindows.org/)
+  - Mac users already have Terminal built-in
+  - We will use the Terminal inside VS Code, so Git Bash might not be necessary for in-class exercises
 
 ## Conda Environment
 
