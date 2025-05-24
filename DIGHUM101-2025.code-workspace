@@ -1,14 +1,7 @@
 {
-	"folders": [
+    "folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../../UCB DH Minor Application/DIGHUM101-2024-main/Data"
-		},
-		{
-			"path": "../../UCB DH Minor Application/DIGHUM101-2024-main/Img"
 		}
-	],
-	"settings": {}
+	]
 }
