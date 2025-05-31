@@ -176,3 +176,5 @@ Newly developed materials (Summer 2025, Merve Tekgürler) make use of the follow
 - https://github.com/cs124/pa2-naive-bayes/blob/main/numpy_tutorial.ipynb
 - https://web.stanford.edu/class/cs124/lec/Lab1_UnixText_2025_upload.pdf
 - https://github.com/cs124/labs/blob/main/Lab3_InformationRetrieval.md 
+- https://github.com/dlab-berkeley/Python-Intermediate-Legacy
+- https://github.com/dlab-berkeley/Python-Data-Visualization
